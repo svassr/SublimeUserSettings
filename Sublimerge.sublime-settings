@@ -1,0 +1,12 @@
+{
+    // Path to git executable
+    "git_executable_path": "/usr/local/git/bin/git",
+
+    //Path to svn executable
+    "svn_executable_path": "/usr/local/bin/svn",
+
+    //Additional arguments for 'git log' command
+    "git_log_args": "--encoding=UTF-8 --no-color --no-decorate",
+
+    "custom_comparisons_in_separate_menu": false
+}

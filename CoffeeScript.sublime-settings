@@ -1,0 +1,6 @@
+{
+	"binDir": "/usr/local/bin",
+	"checkSyntaxOnSave": true
+,	"lintOnSave": true
+,	"showOutputOnSave": true
+}
